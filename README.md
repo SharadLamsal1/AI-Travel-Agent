@@ -27,3 +27,22 @@ The following tools have been used in the application:
 **Databases** - ChromaDB for vector database, PostgreSQL to store booking related information.
 
 **Major Libraries** - Langchain for chatbot, Streamlit for UI
+
+**Screenshots**
+
+![image](https://github.com/user-attachments/assets/6d347d91-b44f-451a-96ae-fb12c453f71c)
+
+![image](https://github.com/user-attachments/assets/474d9007-013f-46fb-833b-5f272aafe5f3)
+
+![image](https://github.com/user-attachments/assets/4e35c684-8d98-4e33-ad88-2ad24d7f6040)
+
+![image](https://github.com/user-attachments/assets/b3e36402-ca90-4ea9-9325-4124e23fee31)
+
+![image](https://github.com/user-attachments/assets/7b1587af-8a9b-45d5-9a96-8a27d7e273c8)
+
+
+
+
+
+
+
